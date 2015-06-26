@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/paja/AndroidStudioProjects/BasicNetworking/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/home/paja/AndroidStudioProjects/BasicNetworking/Application/build/intermediates/pre-dexed/debug/classes-8f7d2b71bea6d1cdc7a5b656ad99ba55a73606f0.jar" />
+    </item>
+    <item
+        jar="/home/paja/AndroidStudioProjects/BasicNetworking/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/home/paja/AndroidStudioProjects/BasicNetworking/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-5caff808a68ecaf9eda4385943d3f5c4772f6986.jar" />
+    </item>
+    <item
+        jar="/home/paja/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/home/paja/AndroidStudioProjects/BasicNetworking/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-944ed165b0582372fd5fd04db6db7323c08bbbcc.jar" />
+    </item>
+
+</items>
